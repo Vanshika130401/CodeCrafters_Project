@@ -15,7 +15,8 @@ import java.util.Collections;
  * reuse.
  *
  * @author Pawanpreet Kaur
- * @author Vanshika Vanshika Feb 2024
+ * @author Vanshika Vanshika 
+ * 19 Feb 2024
  */
 public class GroupOfCards {
 

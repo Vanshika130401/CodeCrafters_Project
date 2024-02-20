@@ -11,7 +11,8 @@ import java.util.Scanner;
  * It contains the main game loop, player interactions, and declares the winner.
  *
  * @author Pawanpreet Kaur
- * @author Vanshika Vanshika Feb 2024
+ * @author Vanshika Vanshika 
+ * 19 Feb 2024
  */
 public class StartGame extends Game {
 

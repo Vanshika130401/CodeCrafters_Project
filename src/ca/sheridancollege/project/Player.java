@@ -10,7 +10,8 @@ package ca.sheridancollege.project;
  * which should be unique.
  *
  * @author Pawanpreet Kaur
- * @author Vanshika Vanshika Feb 2024
+ * @author Vanshika Vanshika 
+ * 19 Feb 2024
  */
 public abstract class Player {
 
